@@ -19,6 +19,7 @@ public class StringReverse {
 			snew = snew +test[i] +" " ;
 		}
 		System.out.println(snew);
+		System.out.println("for checking purpose");
  	}
 
 }
