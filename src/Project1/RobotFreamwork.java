@@ -42,7 +42,7 @@ public class RobotFreamwork {
 		        robot.delay(1500);	
 		        robot.keyPress(KeyEvent.VK_DOWN); // press keyboard arrow key to select Save radio button	
 		        Thread.sleep(2000);	
-		        robot.keyPress(KeyEvent.VK_ENTER);
+		        robot.keyPress(KeyEvent.VK_ENTER); 
 		        
 				
 			
