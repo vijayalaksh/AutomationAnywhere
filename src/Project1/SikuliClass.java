@@ -30,6 +30,7 @@ public class SikuliClass
 		driver.manage().window().maximize();
 		driver.navigate().to("https://owner.ford.com/content/ford-dot-com/en/tools/account/account-registration.html#/");
 		System.out.println("testing done");
+		System.out.println("project commiitted");
 /*//			screen.wait(Fname, 10);
 //			screen.find(Fname);
 //			screen.type(Fname, "Neelam");
